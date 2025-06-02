@@ -1,0 +1,1 @@
+swagger-client @ https://qtest.dev.tricentis.com/api/download/manager/2025.2/python
